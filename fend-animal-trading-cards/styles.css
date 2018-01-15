@@ -1,0 +1,41 @@
+img{
+    width : 300px;
+    box-shadow: 0.5px gray; 
+    margin : 5px 0px;
+}
+span{
+    font-weight : bold;
+}
+
+
+.interests{
+    border : 1.8px lightgray solid;
+    padding : 10px;
+    font-size : 18px;
+    width : 280px;
+    margin-top : 10px;
+}
+
+
+ul{
+    list-style: none;
+    padding-left: 0px;
+}
+
+body{    
+    width : 500px;
+    
+}
+
+.header{
+    font-size : 2rem;
+    margin-top : 10px;
+}
+
+.animal{
+ width : 310px;
+ box-shadow: 10px 10px 5px lightgray;
+ border : 0.5px lightgray solid; 
+ margin : 0px 5px;
+ padding : 15px;
+}
